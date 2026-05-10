@@ -27,7 +27,39 @@ class CustomSlidableContactTile extends StatelessWidget {
         children: [
           SlidableAction(
             onPressed: (context) async {
-              await provider.deleteContact(contact.id);
+              final shouldDelete = await showDialog<bool>(
+                context: context,
+                builder: (context) => AlertDialog(
+                  backgroundColor: const Color(0xFFEAEAEA),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(24.r),
+                  ),
+                  title: const Text('Delete Contact'),
+                  content: Text(
+                    'Are you sure you want to delete ${contact.name}?',
+                    style: TextStyle(fontSize: 15.sp),
+                  ),
+                  actions: [
+                    TextButton(
+                      onPressed: () => Navigator.pop(context, false),
+                      child: const Text(
+                        'Cancel',
+                        style: TextStyle(color: Color(0xFF007AFF)),
+                      ),
+                    ),
+                    TextButton(
+                      onPressed: () => Navigator.pop(context, true),
+                      child: const Text(
+                        'Delete',
+                        style: TextStyle(color: Color(0xFF007AFF)),
+                      ),
+                    ),
+                  ],
+                ),
+              );
+              if (shouldDelete == true) {
+                await provider.deleteContact(contact.id);
+              }
             },
             backgroundColor: Colors.transparent,
             foregroundColor: Colors.black,
