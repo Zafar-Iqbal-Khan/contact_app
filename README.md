@@ -65,7 +65,6 @@ You can download the latest release APK here [![Download APK](https://img.shield
   <img src="https://github.com/user-attachments/assets/04253c02-9cb2-4e1b-ad01-80635eba6060" width="200" />
 
   <img src="https://github.com/user-attachments/assets/c7f14326-5810-48a8-a7f0-460d06fb1a92" width="200" />
-  <img src="https://github.com/user-attachments/assets/3cf07bc2-b6de-478d-b189-75bf2a849da5" width="200" />
   <img src="https://github.com/user-attachments/assets/621bb10e-1468-4339-9b2a-27b20fcebec3" width="200" />
   <img src="https://github.com/user-attachments/assets/e30323c4-f065-41a4-932a-83e1224110f4" width="200" />
   <img src="https://github.com/user-attachments/assets/78c3f169-cbac-47b1-aaed-de6f6ee45853" width="200" />
