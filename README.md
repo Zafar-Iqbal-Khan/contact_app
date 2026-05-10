@@ -4,6 +4,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Download App](https://img.shields.io/badge/Download-App-blue.svg?style=for-the-badge&logo=android&logoColor=white)](release_apk/app-release.apk)
 
 A premium Flutter application inspired by Google Contacts, featuring seamless **online (Firebase)** and **offline (SQLite)** synchronization. This "Offline-First" architecture ensures a smooth user experience regardless of connectivity.
 
@@ -12,21 +13,25 @@ A premium Flutter application inspired by Google Contacts, featuring seamless **
 ## 🚀 Key Features
 
 ### 📱 User Interface
+
 - **Dynamic Home Screen**: Intuitive bottom navigation separating all contacts from favorites.
 - **Responsive Design**: Built with `flutter_screenutil` for a consistent experience across all device sizes.
 - **Slidable Actions**: Quick access to delete and edit via gestures.
 
 ### 👤 Contact Management
+
 - **Full CRUD Support**: Add, view, edit, and delete contacts with ease.
 - **Rich Profiles**: Detailed view for contact information with quick-action triggers.
 - **Smart Calling**: Integrated `url_launcher` for instant calls.
 - **Favorites System**: Quick-toggle favorite status for priority access.
 
 ### 🔐 Security & Auth
+
 - **Google Authentication**: Secure sign-in powered by Firebase and Google Sign-In.
 - **Data Isolation**: Multi-user support with private contact lists stored under unique Firebase UIDs.
 
 ### 🔁 Hybrid Storage & Sync
+
 - **Offline-First**: Loads from local SQLite for instant startup.
 - **Real-time Sync**: Automatic background synchronization with Firestore when online.
 - **Action Queueing**: Offline changes are queued and automatically pushed when connection is restored.
@@ -35,16 +40,16 @@ A premium Flutter application inspired by Google Contacts, featuring seamless **
 
 ## 🧱 Tech Stack
 
-| Layer | Technology |
-| :--- | :--- |
-| **Framework** | Flutter 3.x |
-| **Language** | Dart |
-| **State Management** | Provider |
-| **Cloud Database** | Firebase Firestore |
-| **Local Database** | SQLite (`sqflite`) |
-| **Connectivity** | `connectivity_plus` |
-| **Authentication** | `firebase_auth` & `google_sign_in` |
-| **Styling** | Custom Material 3 Theme |
+| Layer                | Technology                         |
+| :------------------- | :--------------------------------- |
+| **Framework**        | Flutter 3.x                        |
+| **Language**         | Dart                               |
+| **State Management** | Provider                           |
+| **Cloud Database**   | Firebase Firestore                 |
+| **Local Database**   | SQLite (`sqflite`)                 |
+| **Connectivity**     | `connectivity_plus`                |
+| **Authentication**   | `firebase_auth` & `google_sign_in` |
+| **Styling**          | Custom Material 3 Theme            |
 
 ---
 
@@ -69,11 +74,13 @@ A premium Flutter application inspired by Google Contacts, featuring seamless **
 ## 📥 Getting Started
 
 ### 1. Prerequisites
+
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest stable)
 - [Firebase Account](https://console.firebase.google.com/)
 - Android Studio / VS Code with Flutter extension
 
 ### 2. Installation
+
 ```bash
 # Clone the repository
 git clone https://github.com/Zafar-Iqbal-Khan/contacts_app.git
@@ -86,12 +93,14 @@ flutter pub get
 ```
 
 ### 3. Firebase Configuration
+
 1. Create a new project in the Firebase Console.
 2. Enable **Firestore Database** and **Authentication** (with Google Sign-in).
 3. Register your Android app and download `google-services.json`.
 4. Place `google-services.json` in `android/app/`.
 
 ### 4. Run the App
+
 ```bash
 flutter run
 ```
@@ -140,4 +149,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Flutter Community](https://flutter.dev/community)
 - [Google Material Design](https://m3.material.io/)
 - [Firebase Documentation](https://firebase.google.com/docs)
-
