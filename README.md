@@ -60,6 +60,10 @@ You can download the latest release APK here [![Download APK](https://img.shield
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c6b22131-bbad-49df-9e51-8a2eacd4e322" width="200" />
+  <img src="https://github.com/user-attachments/assets/d8301845-a09a-40a1-a751-601d37357b32" width="200" />
+  <img src="https://github.com/user-attachments/assets/121f6c16-ffe8-4c1a-91a7-45ad9b27deb3" width="200" />
+  <img src="https://github.com/user-attachments/assets/04253c02-9cb2-4e1b-ad01-80635eba6060" width="200" />
+
   <img src="https://github.com/user-attachments/assets/c7f14326-5810-48a8-a7f0-460d06fb1a92" width="200" />
   <img src="https://github.com/user-attachments/assets/3cf07bc2-b6de-478d-b189-75bf2a849da5" width="200" />
   <img src="https://github.com/user-attachments/assets/621bb10e-1468-4339-9b2a-27b20fcebec3" width="200" />
@@ -72,10 +76,6 @@ You can download the latest release APK here [![Download APK](https://img.shield
   <img src="https://github.com/user-attachments/assets/bc1e9e2e-9b4b-4ef5-95dd-f32513acaa2b" width="200" />
   <img src="https://github.com/user-attachments/assets/9e25364d-9552-468c-b59c-b3ff7fa32610" width="200" />
   <img src="https://github.com/user-attachments/assets/356475a9-12f8-4f28-9d73-272f9b93fddf" width="200" />
-  <img src="https://github.com/user-attachments/assets/04253c02-9cb2-4e1b-ad01-80635eba6060" width="200" />
-  <img src="https://github.com/user-attachments/assets/121f6c16-ffe8-4c1a-91a7-45ad9b27deb3" width="200" />
-  <img src="https://github.com/user-attachments/assets/d8301845-a09a-40a1-a751-601d37357b32" width="200" />
-  <img src="https://github.com/user-attachments/assets/8ec05414-ae1e-43eb-8543-9621d5d29afe" width="200" />
   
 </p>
 
