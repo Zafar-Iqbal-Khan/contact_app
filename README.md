@@ -9,7 +9,7 @@ A premium Flutter application inspired by Google Contacts, featuring seamless **
 
 ## 📥 Download APK
 
-You can download the latest release APK here [![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge)](https://github.com/Zafar-Iqbal-Khan/post_app_flutter/raw/main/release_apk/app-release.apk)
+You can download the latest release APK here [![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge)](https://github.com/Zafar-Iqbal-Khan/contact_app/raw/main/release_apk/app-release.apk)
 
 ---
 
