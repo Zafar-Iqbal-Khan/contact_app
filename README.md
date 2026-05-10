@@ -8,6 +8,17 @@
 
 A premium Flutter application inspired by Google Contacts, featuring seamless **online (Firebase)** and **offline (SQLite)** synchronization. This "Offline-First" architecture ensures a smooth user experience regardless of connectivity.
 
+## 📥 Download This App
+
+<p align="center">
+  <a href="release_apk/app-release.apk">
+    <img src="https://img.shields.io/badge/Download-App-0A8DFF.svg?style=for-the-badge&logo=android&logoColor=white" alt="Download App">
+  </a>
+  <a href="android/app/src/main/res/playstore-icon.png">
+    <img src="https://img.shields.io/badge/Download-App_Icons-28A745.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download App Icons">
+  </a>
+</p>
+
 ---
 
 ## 🚀 Key Features
