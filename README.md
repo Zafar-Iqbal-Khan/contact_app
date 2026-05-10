@@ -4,7 +4,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Download App](https://img.shields.io/badge/Download-App-blue.svg?style=for-the-badge&logo=android&logoColor=white)](release_apk/app-release.apk)
 
 A premium Flutter application inspired by Google Contacts, featuring seamless **online (Firebase)** and **offline (SQLite)** synchronization. This "Offline-First" architecture ensures a smooth user experience regardless of connectivity.
 
@@ -60,17 +59,24 @@ You can download the latest release APK here [![Download APK](https://img.shield
 ## 📸 Visual Showcase
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e494d5a-add7-42db-99de-5cb01a149616" width="200" />
-  <img src="https://github.com/user-attachments/assets/e8fee6c1-4e0f-4ba9-b15a-78bd312d8e04" width="200" />
-  <img src="https://github.com/user-attachments/assets/88fb6b99-6d30-4665-ba01-efd2078c95c9" width="200" />
-  <img src="https://github.com/user-attachments/assets/01436649-c09e-4082-abe3-5f1c185d5abe" width="200" />
+  <img src="https://github.com/user-attachments/assets/c6b22131-bbad-49df-9e51-8a2eacd4e322" width="200" />
+  <img src="https://github.com/user-attachments/assets/c7f14326-5810-48a8-a7f0-460d06fb1a92" width="200" />
+  <img src="https://github.com/user-attachments/assets/3cf07bc2-b6de-478d-b189-75bf2a849da5" width="200" />
+  <img src="https://github.com/user-attachments/assets/621bb10e-1468-4339-9b2a-27b20fcebec3" width="200" />
+  <img src="https://github.com/user-attachments/assets/e30323c4-f065-41a4-932a-83e1224110f4" width="200" />
+  <img src="https://github.com/user-attachments/assets/78c3f169-cbac-47b1-aaed-de6f6ee45853" width="200" />
+  <img src="https://github.com/user-attachments/assets/93283360-5ce4-4d8b-8f65-bb6389f8f6af" width="200" />
+  <img src="https://github.com/user-attachments/assets/e5084740-7190-4deb-8348-d8d2f655549c" width="200" />
 </p>
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6b737a4b-dce6-4089-aa2e-ebd31c73ad0c" width="200" />
-  <img src="https://github.com/user-attachments/assets/ebd90bee-8181-4616-8a77-643b63f40045" width="200" />
-  <img src="https://github.com/user-attachments/assets/7ffd5337-50f7-4826-9a42-3c874fa0d060" width="200" />
-  <img src="https://github.com/user-attachments/assets/8becdce2-5a9d-4988-8ebb-82a91c0d8866" width="200" />
+  <img src="https://github.com/user-attachments/assets/bc1e9e2e-9b4b-4ef5-95dd-f32513acaa2b" width="200" />
+  <img src="https://github.com/user-attachments/assets/9e25364d-9552-468c-b59c-b3ff7fa32610" width="200" />
+  <img src="https://github.com/user-attachments/assets/356475a9-12f8-4f28-9d73-272f9b93fddf" width="200" />
+  <img src="https://github.com/user-attachments/assets/04253c02-9cb2-4e1b-ad01-80635eba6060" width="200" />
+  <img src="https://github.com/user-attachments/assets/121f6c16-ffe8-4c1a-91a7-45ad9b27deb3" width="200" />
+  <img src="https://github.com/user-attachments/assets/d8301845-a09a-40a1-a751-601d37357b32" width="200" />
+  <img src="https://github.com/user-attachments/assets/8ec05414-ae1e-43eb-8543-9621d5d29afe" width="200" />
+  
 </p>
 
 ---
